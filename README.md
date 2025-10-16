@@ -1,4 +1,3 @@
-```markdown
 # MyMessenger - Real-time Chat Application
 
 A full-stack real-time messaging application built with React, Node.js, Express, Socket.IO, and MongoDB.
